@@ -3,4 +3,4 @@
 		<target name="info">
 			<echo> Hellow world - Welcome Ant</echo>
 		</target>
-	</proejct>
+	</project>
